@@ -1,1 +1,1 @@
-# Jumping-on-the-Clouds-algo
+# Jumping-on-the-Clouds-algo This code solves the Jumping on the Clouds problem by calculating the minimum number of jumps needed to reach the last cloud. The `jumpingOnClouds` function greedily jumps **2 clouds** when possible, or **1 cloud** otherwise, counting each jump until reaching the end.
